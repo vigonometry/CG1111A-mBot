@@ -40,7 +40,7 @@ float greyDiff[3] = {136, 524, 498};
 
 float readIR(){
   float IR_reading = analogRead(IRPin);
-  float reading =  ((float)IR_reading - IR_MIN) / (IR_MAX - IR_MIN);
+  float reading =  (IR_reading - IR_MIN) / (IR_MAX - IR_MIN);
 
   if (fabs(reading - 0) < 0.5){
     return 1; //object is too close to the wall
