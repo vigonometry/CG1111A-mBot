@@ -1,5 +1,5 @@
 /**
- * @authors: Vigneshwar Hariharan, Suresh Abijith Ram, Tan Tze Loong, Silang Wang (Lab: B01)
+ * @author: Vigneshwar Hariharan (Lab: B01)
  * @file: mBot_final.ino
  */
 #include "MeMCore.h"
