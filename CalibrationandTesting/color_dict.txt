@@ -1,0 +1,14 @@
+719 675 693 - White Array
+87 78 0 - Black Array
+632 597 693 - Grey Array
+
+
+250 39 51 - Red
+272 135 108 - Orange
+148 105 136 - Purple
+142 210 143 - Green
+122 204 208 - Blue
+
+if-else condition order:
+
+ORPGB
